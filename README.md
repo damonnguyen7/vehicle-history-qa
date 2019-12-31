@@ -17,6 +17,11 @@ $ npm run start
 
 # generate static project
 $ npm run generate
+
+  Choose between original data or customized data (file located at - /server/questions.js) -
+  
+  original - data the team gave me for this challenge(recommend for testing requirements).
+  customized - edited version of the original data(recommend for evaluating styling).
 ```
 
 <div style="display: flex;">
