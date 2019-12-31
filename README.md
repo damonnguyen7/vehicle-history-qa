@@ -19,4 +19,8 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+<div style="display: flex;">
+  <img width="600" style="margin-bottom: 16px;" alt="Screen Shot 2019-12-30 at 4 57 52 PM" src="https://user-images.githubusercontent.com/10293475/71606472-e42a8e80-2b25-11ea-8359-35437b9d7e17.png">
+  <img width="600" style="margin-bottom: 16px;" alt="Screen Shot 2019-12-30 at 4 58 00 PM" src="https://user-images.githubusercontent.com/10293475/71606473-e5f45200-2b25-11ea-9873-560005c11365.png">
+  <img width="324" style="margin-bottom: 16px;" alt="Screen Shot 2019-12-30 at 4 59 41 PM" src="https://user-images.githubusercontent.com/10293475/71606475-e856ac00-2b25-11ea-87c4-9be003a4448e.png">
+</div>
