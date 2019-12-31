@@ -18,6 +18,9 @@ $ npm run start
 # generate static project
 $ npm run generate
 
+  Home page - /
+  Question detail page - /questions/:questionId
+
   Choose between original data or customized data (file located at - /server/questions.js) -
   
   original - data the team gave me for this challenge(recommend for testing requirements).
